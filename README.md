@@ -29,7 +29,7 @@ Actionable Insights
 
 1. friend_referral, Apple user (MAC or iOS), low price are three great positive factors which improve the conversion rate
 2. if we want to increase the price, which impacts negatively on conversion rate, we must compensate on the other two factors
-	◦	lauch special marketing program targeted to Apple users (MAC or iOS users)
-	◦	run some program which rewards user which can invite his/her friend to use our software
+	- lauch special marketing program targeted to Apple users (MAC or iOS users)
+	- run some program which rewards user which can invite his/her friend to use our software
 3. Linux users don't like our software as much as users on other OS. Development team should find out the reason. For example, is there any incompatibility issue on Linux?
 

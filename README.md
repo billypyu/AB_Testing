@@ -1,3 +1,12 @@
+Observation
+
+we can see that OS distribution in test/control groups are very different. The experiment claim that '66% of the users have seen the old price (39), while a random sample of 33% users a higher price (59).', but users from Linux don't obey such rule, but 53% go to control group, 47% go to test group.
+
+Chi-Square test tells us,
+
+    Price and OS are two main factor which impact converted or not.
+    Source and Device don't impact conversion rate that much.
+
 Pricing Differences
 
 Since the p-value is much smaller than 0.05 threshold, so we reject H0, and accept HA, that is, test group's average revenue is significantly higher than control group's average revenue.

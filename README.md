@@ -8,7 +8,7 @@ Chi-Square test tells us,
     Source and Device don't impact conversion rate that much.
 
 
-We are going to perform a t-test to test whether the test group's average revenue is higher than control group's average revenue
+We are going to perform a t-test (one-tailed test)to test whether the test group's average revenue is higher than control group's average revenue
 
     H0: test group's average revenue equal to control group's average revenue
     HA: test group's average revenue is higher than control group's average revenue

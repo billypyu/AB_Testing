@@ -1,6 +1,6 @@
 Observation
 
-we can see that OS distribution in test/control groups are very different. The experiment claim that '66% of the users have seen the old price (39), while a random sample of 33% users a higher price (59).', but users from Linux don't obey such rule, but 53% go to control group, 47% go to test group.
+we can see that OS distribution in test/control groups are very different. The experiment claim that '66% of the users have seen the old price (39), while a random sample of 33% users a higher price (59), but users from Linux don't obey such rule, but 53% go to control group, 47% go to test group.
 
 Chi-Square test tells us,
 
